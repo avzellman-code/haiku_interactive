@@ -24,6 +24,7 @@ body {
 }
 
 .last {
+/* transform: skew(30deg, 30 deg); */
 	padding-bottom: 2rem;
 	border-bottom: 2px solid rgb(220, 200, 180);
 }
