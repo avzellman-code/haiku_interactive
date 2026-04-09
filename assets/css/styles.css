@@ -8,7 +8,7 @@ body {
 	background-color: black;
 	color: whitesmoke;
 	font-size: 5rem;
-	font-family: 'Lacquer'
+	font-family: 'Lacquer';
 	overflow: hidden;
 	background-image: url(../img/flames.gif);
 	background-repeat: no-repeat; 
